@@ -1,4 +1,4 @@
-## 8 Golden Rules of Interface Design
+# 8 Golden Rules of Interface Design
 
 A good interface should be designed to avoid errors as much as possible. However, if something goes wrong, your system should make it easy for users to understand and resolve 
 the problem. Simple ways to deal with errors include displaying clear error notifications and descriptive hints to resolve the problem.
@@ -33,10 +33,11 @@ Those rules are:
 ### Human attention is limited. Therefore, interfaces should be as simple as possible with proper information hierarchy, and choosing recognition over recall. When, for example requesting a password change, we only have to enter our institutional email and then click on a link sent to us to that email account.
 
 
+# Kiviat Diagram
 
-
-
-
+We compared both Universities' websites using the 8 golden rules.
+As we can see both websites have similar perfomance, however, each one specializes in a different rule, for example, Stanford University has a better universal usability
+while MIT University works with with better informative feedback
 
 ![](kiviot.png)
 

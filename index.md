@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 8 Golden Rules of Interface Design
 
 You can use the [editor on GitHub](https://github.com/Liamm02/8-golden-rules/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

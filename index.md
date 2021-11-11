@@ -46,6 +46,6 @@ while MIT University works with with better informative feedback
 
 We made a System usability Scale Test of Standford University's website.
 
-As we can see when looking at the SUS test, Stanford has a score above average, meaning it has a really good website
+As we can see when looking at the SUS test, Stanford has a score above average, meaning it has a really good website design
 
 ![](Imagen7.png)

@@ -15,7 +15,7 @@ A well-designed website can help you form a good impression on your prospective 
 ![](Imagen3.png)
 
 ## 3. Offer informative feedback.
- The user should know where they are at and what is going on at all times. For every action there should be appropriate, human-readable feedback within a reasonable amount of time. We can find in both websites informative feedback on how to create an account or log in to an existing one.
+ The user should know where they are at and what is going on at all times. For every action there should be appropriate feedback. We can find in both websites informative feedback on how to create an account or log in to an existing one.
  
 ![](Imagen4.png)
 

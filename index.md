@@ -1,14 +1,8 @@
 # 8 Golden Rules of Interface Design
 
-A good interface should be designed to avoid errors as much as possible. However, if something goes wrong, your system should make it easy for users to understand and resolve 
-the problem. Simple ways to deal with errors include displaying clear error notifications and descriptive hints to resolve the problem.
-To achieve this there are 8 rules that must be applied in every interface.
+A good interface is as important in a sotfware system as its correct functioning. To achieve a great interface, Ben Shneiderman designed 8 rules to follow.
 
-The two university websites we analyzed were:
-[Stanford University](stanford.edu) | 
-[MIT](mit.edu)
-
-Those rules are:
+[Stanford University](http://stanford.edu/) | [MIT](http://mit.edu/)
 
 ## 1. Strive for consistency.
  By utilizing familiar icons, colors, menu hierarchy, call-to-actions, and user flows when designing similar situations and sequence of actions. Both websites are consistent in the design and information layout throughout all the main sections they have.

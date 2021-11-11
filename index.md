@@ -1,6 +1,6 @@
 # 8 Golden Rules of Interface Design
 
-A good interface is as important in a sotfware system as its correct functioning. To achieve a great interface, Ben Shneiderman designed 8 rules to follow.
+A well-designed website can help you form a good impression on your prospective customers. It can also help you nurture your leads and get more conversions. But, more importantly, it provides good user experience and helps your website visitors access and navigate your website with ease. To achieve a great interface, Ben Shneiderman designed 8 rules to follow.
 
 [Stanford University](http://stanford.edu/) | [MIT](http://mit.edu/)
 

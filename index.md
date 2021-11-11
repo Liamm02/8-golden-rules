@@ -1,14 +1,25 @@
 ## 8 Golden Rules of Interface Design
 
-You can use the [editor on GitHub](https://github.com/Liamm02/8-golden-rules/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A good interface should be designed to avoid errors as much as possible. However, if something goes wrong, your system should make it easy for users to understand and resolve 
+the problem. Simple ways to deal with errors include displaying clear error notifications and descriptive hints to resolve the problem.
+To achieve this there are 8 rules that must be applied in every interface
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Those rules are:
 
-### Markdown
+### 1. Strive for consistency.
+### 2. Seek universal usability.
+### 3. Offer informative feedback.
+### 4. Design dialogs to yield closure.
+### 5. Prevent errors.
+### 6. Permit easy reversal of actions.
+### 7. Keep users in control.
+### 8. Reduce short-term memory load.
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +35,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

@@ -20,7 +20,7 @@ A well-designed website can help you form a good impression on your prospective 
 ![](Imagen4.png)
 
 ## 4. Design dialogs to yield closure.
- When finishing a process or procedure, users should get an output informing him what the status of the process is (completed, failed...). Both websites properly inform you when a process, such as requesting a user ID, is complete.
+ When finishing a process or procedure, users should get an output informing them what the status of the process is (completed, failed...). Both websites properly inform you when a process, such as requesting a user ID, is complete.
  
 ![](Imagen5.png)
 
